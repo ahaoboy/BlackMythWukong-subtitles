@@ -1,0 +1,19 @@
+name: release
+on:
+  push:
+    tags:
+      - "v*"
+permissions:
+  contents: write
+jobs:
+  rust-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v4
+      - name: Run
+        run: |
+          npm run build
+      - uses: ncipollo/release-action@v1
+        with:
+          artifacts: "./dist/*"
