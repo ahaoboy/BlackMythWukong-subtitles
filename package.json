@@ -2,15 +2,17 @@
   "name": "black-myth-wu-kong-subtitles",
   "version": "0.0.1",
   "description": "black-myth-wu-kong-subtitles",
-  "main": "index.js",
+  "main": "./dist/index.json",
+  "author": "ahaoboy",
+  "homepage": "https://github.com/ahaoboy/BlackMythWukong-subtitles",
   "files": [
-    "dist"
+    "dist",
+    "bin"
   ],
   "scripts": {
     "build": "node ./scripts/build-json.js"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^22.5.5"
