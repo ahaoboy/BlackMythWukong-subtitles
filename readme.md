@@ -21,6 +21,5 @@ Convert wem files to mp3 files
 ## mp3_to_srt.py
 Convert mp3 files to srt files
 
-
 ## todo
 - Classification by character
