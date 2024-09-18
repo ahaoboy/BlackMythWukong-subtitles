@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:03,160
+It has lingered for you for too long.
+
+2
+00:00:04,900 --> 00:00:06,240
+It's yours now.
+

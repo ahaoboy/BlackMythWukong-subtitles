@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,100
+Monkey brain could be a proper trait.
+
+2
+00:00:02,780 --> 00:00:04,660
+What's left is the king's to have.
+

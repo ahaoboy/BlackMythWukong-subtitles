@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:05,760
+Careful now! That old monkey must have been blind to pick a fool like you!
+

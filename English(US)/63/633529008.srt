@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:04,240
+It is only natural.
+
+2
+00:00:04,840 --> 00:00:08,180
+Practitioners may err from time to time.
+

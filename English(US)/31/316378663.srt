@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:03,660
+Some bastard has got me trapped in this rock with his spell.
+

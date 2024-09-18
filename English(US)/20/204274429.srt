@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:05,060
+Many doubted you'd make it, but I waited, and here you are.
+

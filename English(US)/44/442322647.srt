@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:05,000
+Having traversed the carnage, do you not feel refreshed?
+
+2
+00:00:06,240 --> 00:00:09,800
+It is a gift from your master here.
+

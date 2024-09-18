@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:03,440
+Help me score a tasty treat, will you?
+
+2
+00:00:04,620 --> 00:00:06,680
+Drive me mad!
+

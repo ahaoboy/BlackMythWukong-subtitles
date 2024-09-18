@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:01,340
+Open that chest, quick!
+
+2
+00:00:01,800 --> 00:00:03,300
+There must be treasures within.
+

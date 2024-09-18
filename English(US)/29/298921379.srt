@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:03,760
+A great pill the Blackwing Guide gifted the wolf.
+
+2
+00:00:04,680 --> 00:00:08,440
+Finding it would be a deserving reward for that fight.
+

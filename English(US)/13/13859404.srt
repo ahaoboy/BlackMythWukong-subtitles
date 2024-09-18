@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:04,100
+Uh, uh, these guis are a handful. Go fend them off!
+
+2
+00:00:04,600 --> 00:00:04,940
+Hmph.
+

@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:01,720
+Seek from within to ascend.
+
+2
+00:00:02,380 --> 00:00:04,580
+Seek from without to craft pills.
+

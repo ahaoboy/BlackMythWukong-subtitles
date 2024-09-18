@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:03,020
+That is intentional, isn't it?
+
+2
+00:00:03,260 --> 00:00:04,460
+You little rascal!
+

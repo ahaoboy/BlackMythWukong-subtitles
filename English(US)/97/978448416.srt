@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:01,280
+A most fitting time.
+
+2
+00:00:01,700 --> 00:00:03,840
+My spear is in need of sharpening.
+

@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:04,800
+The world is a furnace, and we are its yields.
+

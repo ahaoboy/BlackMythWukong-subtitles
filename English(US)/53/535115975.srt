@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:05,100
+Vile thing! Your speech spews poison! What would your master say?
+
+2
+00:00:05,500 --> 00:00:08,060
+Once I get out, I'll let him know of this!
+

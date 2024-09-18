@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,640
+Down this cliff, there is a secret passage to her palace.
+
+2
+00:00:03,120 --> 00:00:03,820
+She should be there.
+

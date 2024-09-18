@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,900
+He's hiding in the side hall of the temple.
+
+2
+00:00:03,780 --> 00:00:06,340
+Kind sir, will you lead me to him?
+

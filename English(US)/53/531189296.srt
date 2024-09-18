@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:06,180
+The feast first, then the toil. Hunger brings no spoils.
+

@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:04,160
+How cool!
+
+2
+00:00:05,120 --> 00:00:07,820
+Do our memories mean nothing to you?
+

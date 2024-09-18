@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,560
+The beast has been roaming this temple for quite a while.
+
+2
+00:00:04,300 --> 00:00:07,700
+He and his pups came from the west to find shelter.
+
+3
+00:00:08,800 --> 00:00:10,040
+That's what I heard.
+

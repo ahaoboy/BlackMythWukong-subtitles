@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,700
+You try to win with the numbers.
+
+2
+00:00:03,060 --> 00:00:04,400
+Hardly a fair fight.
+

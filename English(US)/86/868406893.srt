@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:05,000
+I will make sure everything that stands in my way...
+
+2
+00:00:05,000 --> 00:00:07,000
+DIES!
+

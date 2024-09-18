@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:05,720
+The king promised he'd bring me back from death.
+

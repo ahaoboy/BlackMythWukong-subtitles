@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:03,460
+Just a reminder, they oft wander amidst the village.
+
+2
+00:00:04,460 --> 00:00:06,100
+May you find some luck there.
+

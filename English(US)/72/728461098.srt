@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:03,500
+I know you possess some skill.
+
+2
+00:00:03,500 --> 00:00:08,400
+Defeat me, and you shall go free.
+

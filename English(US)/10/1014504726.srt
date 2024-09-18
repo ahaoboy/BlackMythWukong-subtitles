@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,120
+Thought yourself quite something, huh?
+
+2
+00:00:02,960 --> 00:00:04,340
+Have fun with this!
+

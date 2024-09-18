@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:03,540
+Hmm... It's the right time now.
+
+2
+00:00:04,180 --> 00:00:07,420
+I'm taking it to the right place to give it a try.
+

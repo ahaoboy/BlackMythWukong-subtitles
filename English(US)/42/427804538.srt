@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,800
+Your presence has already made a mess in the mountain.
+
+2
+00:00:04,400 --> 00:00:09,120
+Why not go ahead and take them out once and for all?
+

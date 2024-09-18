@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:05,760
+The armor of the beetle is tougher than steel, yet its front claws do shriek from pain.
+

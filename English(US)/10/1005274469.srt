@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:03,240
+You should eat more, skinny!
+
+2
+00:00:03,440 --> 00:00:06,740
+Off we go, to the Temple of Crouching Tiger!
+

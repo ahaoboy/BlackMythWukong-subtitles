@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:12,260
+Bad luck? It's a dead end.
+
+2
+00:00:18,980 --> 00:00:28,940
+You nasty slanderer! I let you be, and now you have the gall to show up! If you come at me now, this day will be your last!
+
+3
+00:00:30,000 --> 00:00:30,940
+The End
+

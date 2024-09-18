@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,920
+This is invigorating!
+
+2
+00:00:05,260 --> 00:00:07,400
+I'm not the old me anymore!
+
+3
+00:00:07,820 --> 00:00:09,580
+You will not see me lose!
+

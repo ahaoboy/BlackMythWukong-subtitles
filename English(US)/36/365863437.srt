@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:01,760
+Oi, the lad from the village.
+
+2
+00:00:02,440 --> 00:00:03,920
+Tis calmer, I tell ye.
+
+3
+00:00:04,540 --> 00:00:09,020
+His old man murdered neighbours, all to cure the sickly boy.
+
+4
+00:00:10,280 --> 00:00:13,320
+Surely them villagers would come at the lad for revenge.
+
+5
+00:00:14,060 --> 00:00:16,220
+But they've all gone now.
+
+6
+00:00:16,960 --> 00:00:19,280
+Wandering ghosts they've all become.
+
+7
+00:00:20,280 --> 00:00:22,280
+Why you be staring at me, eh?
+
+8
+00:00:22,660 --> 00:00:24,140
+Why would I help him?
+
+9
+00:00:24,460 --> 00:00:25,780
+I was scared too.
+
+10
+00:00:26,400 --> 00:00:29,680
+Aren't you expecting too much from an old man?
+

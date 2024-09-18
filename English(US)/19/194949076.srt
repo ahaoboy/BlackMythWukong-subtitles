@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:04,460
+The bamboo grove ahead is covered in a vile mist.
+
+2
+00:00:05,280 --> 00:00:08,020
+Thankfully, there's but a single path.
+

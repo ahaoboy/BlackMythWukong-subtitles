@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:02,760
+I tolerate no evil under my nose.
+
+2
+00:00:03,100 --> 00:00:04,360
+Neither does my axe.
+
+3
+00:00:04,900 --> 00:00:07,680
+Bring me more revenants so I can chop them up.
+

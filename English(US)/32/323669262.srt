@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:00,700
+Who are you?
+
+2
+00:00:02,080 --> 00:00:04,700
+That is the rattle drum my pa gave me.
+

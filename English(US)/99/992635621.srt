@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,920
+Drink, drink.
+
+2
+00:00:02,340 --> 00:00:05,740
+It can lead to success or failure.
+
+3
+00:00:06,540 --> 00:00:07,980
+Do drink wisely.
+

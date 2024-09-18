@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:01,360
+He sprang out of a rock.
+
+2
+00:00:02,760 --> 00:00:03,880
+Care to try the same?
+

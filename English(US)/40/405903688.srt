@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:01,660
+Nothing withstands my blade!
+
+2
+00:00:02,100 --> 00:00:03,720
+The flood of blood!
+

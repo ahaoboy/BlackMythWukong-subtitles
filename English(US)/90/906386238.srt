@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:03,420
+Oh, Sandgate is a perilous place.
+
+2
+00:00:04,180 --> 00:00:06,580
+You think you can venture there without healing pills?
+

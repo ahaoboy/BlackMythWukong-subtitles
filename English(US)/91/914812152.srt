@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:04,820
+This ill-mannered monkey shows no regard for age and wisdom.
+

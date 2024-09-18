@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,740
+Back home but dragging your feet now, are you?
+
+2
+00:00:03,160 --> 00:00:04,940
+I don't have all the time in the world.
+

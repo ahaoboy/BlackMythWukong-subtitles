@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:01,940
+Please, this is not necessary.
+
+2
+00:00:02,660 --> 00:00:04,040
+Could you please untie me?
+

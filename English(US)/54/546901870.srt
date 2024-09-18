@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:03,480
+It's death either way, so let's fight!
+

@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,720
+Venomous yaoguays have infested the forest ahead.
+
+2
+00:00:03,580 --> 00:00:06,540
+Take caution, or you may never make it back alive.
+

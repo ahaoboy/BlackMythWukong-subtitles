@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,640
+We've got an angry spider here!
+
+2
+00:00:03,080 --> 00:00:04,820
+That's your bad, monkey!
+

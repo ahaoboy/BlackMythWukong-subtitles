@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:02,420
+The peak high's just ahead. Let's be on our way.
+

@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,000
+You don't know when to quit, do you?
+
+2
+00:00:02,620 --> 00:00:04,000
+Let us ignite!
+
+3
+00:00:10,620 --> 00:00:11,880
+That was fun!
+
+4
+00:00:12,300 --> 00:00:13,800
+Really fun!
+
+5
+00:00:20,500 --> 00:00:23,340
+You thought you could defeat me, didn't you?
+

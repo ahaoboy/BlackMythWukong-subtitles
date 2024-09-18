@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,000
+The Purifying Spring is emptied!
+
+2
+00:00:02,700 --> 00:00:04,760
+Her tears must be too!
+

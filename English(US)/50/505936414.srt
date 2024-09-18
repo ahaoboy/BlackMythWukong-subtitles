@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,620
+Report to Lord Linkstreet quickly.
+
+2
+00:00:03,240 --> 00:00:04,660
+The monkey is here.
+

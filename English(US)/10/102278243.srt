@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:03,520
+Survive if you're true, or fall soon if you're not.
+

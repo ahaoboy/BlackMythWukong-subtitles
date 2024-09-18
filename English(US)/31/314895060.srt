@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:04,240
+In the depths of Black Wind Mountain, there are secrets galore.
+
+2
+00:00:05,060 --> 00:00:09,360
+The cicada form may help you explore, but be wary.
+
+3
+00:00:09,800 --> 00:00:12,020
+This form does not last forever.
+
